@@ -1,0 +1,16 @@
+{
+  "name": "angular-video-chat",
+  "version": "1.0.0",
+  "description": "Video chat made with angular, node, webrtc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bradford Lamson-Scribner",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "node-uuid": "^1.4.7",
+    "socket.io": "^1.4.8"
+  }
+}
