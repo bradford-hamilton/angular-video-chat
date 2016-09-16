@@ -31,5 +31,5 @@ angular
 angular
   .module('publicApp')
   .constant('config', {
-    SIGNALIG_SERVER_URL: YOUR_APP_URL
+    SIGNALING_SERVER_URL: 'localhost:1337'
   });
